@@ -5,7 +5,7 @@
 ![da55389b1126b937e0c1d451ac54bac9 (1)](https://user-images.githubusercontent.com/2041322/185625220-40c1f887-3be4-49df-9318-c49e0fb7365e.gif)
 
 
-Or you can call it **_Joom_**! 😂
+
 
 
 ## Prerequisites
@@ -39,3 +39,6 @@ python client.py grpcs://your-server-address-from-last-image johannes
 ```
 
 where `johannes` is the name of the user, must be different from other users.
+```bash
+Specialize shout out to Hanxiao.
+```
