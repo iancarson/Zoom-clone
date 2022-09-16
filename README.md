@@ -35,10 +35,10 @@ pip install opencv-python
 pip install -U jina docarray
 git clone https://github.com/hanxiao/video-chat.git
 cd video-chat
-python client.py grpcs://your-server-address-from-last-image johannes
+python client.py grpcs://your-server-address-from-last-image Ian
 ```
 
-where `johannes` is the name of the user, must be different from other users.
+where `Ian` is the name of the user, must be different from other users.
 ```bash
 Specialize shout out to Hanxiao.
 ```
